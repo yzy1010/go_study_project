@@ -1,0 +1,16 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore vendor and build directories
+vendor/
+bin/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Go build cache and test binaries
+*.test
